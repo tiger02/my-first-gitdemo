@@ -3,5 +3,5 @@
  */
 
 (function() {
-    alert('hello');
+    alert('hello by branch-2!');
 })();
